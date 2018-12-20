@@ -1,0 +1,11 @@
+{
+  "name": "ng7-learn",
+  "version": "1.0.0",
+  "description": "based on udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "author": "olho",
+  "license": "ISC"
+}
